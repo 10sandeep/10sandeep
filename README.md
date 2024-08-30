@@ -1,5 +1,6 @@
 # 💫 About Me:
-📊 Hi, I'm Sandeep Nayak – a Data Analyst. I enjoy working on interesting projects and am currently learning about Machine Learning. I like finding patterns in data to uncover meaningful insights. Outside of work, I bring a bit of humor to my day. Let's explore data together! 💻📈 #DataAnalyst #MachineLearning #FunWithData 🌐📊
+📊 Hi, I'm Sandeep Nayak – 
+🌟 Aspiring Frontend Developer | Passionate about creating intuitive and responsive user interfaces | Enthusiastic learner with a focus on modern web technologies. Outside of work, I bring a bit of humor to my day. Let's explore data together! 💻📈 #FrontendDeveloper #WebDevelopment #ReactJS #JavaScript #CSS #HTML 🌐📊
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ettitudeboy.sandy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sandeep_nayak_14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeep-nayak-0547461a9/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/nayaksandeep1424/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Sandeep142417) 
